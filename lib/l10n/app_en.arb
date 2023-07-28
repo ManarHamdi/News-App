@@ -1,0 +1,18 @@
+{
+
+  "pickyourcategoryofinterest":"Pick your category of interest",
+  "sports": "Sports",
+  "technology": "Technology",
+  "health": "Health",
+  "business":"Business",
+  "environment":"Environment",
+  "science":"Science",
+  "categories": "Categories",
+  "settings": "Settings",
+  "search": "Search",
+  "language": "Language",
+  "english":"English",
+  "mode": "Mode",
+  "dark": "Dark",
+  "light": "Light"
+}
